@@ -32,3 +32,8 @@
 #### Web Interface:
 
 - Built using Gradio, allows file upload and displays results.
+
+#### Screenshot Of The Output:
+
+![image](https://github.com/user-attachments/assets/05343ec4-10dd-499c-981d-811ae4b0665d)
+
