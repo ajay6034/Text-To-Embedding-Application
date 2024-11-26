@@ -1,0 +1,7 @@
+transformers
+gradio
+pandas
+PyPDF2
+ipykernel
+spacy
+torch
